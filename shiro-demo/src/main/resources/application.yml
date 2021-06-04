@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/shiro-demo-db
+    username: root
+    password: 876551730
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
